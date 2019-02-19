@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.framework    = 'UIKit'
   s.requires_arc = true
 
-  s.source = { :git => "https://github.com/DylanVann/react-native-fast-image.git" }
+  s.source = { :git => "https://github.com/jschwab923/react-native-fast-image.git" }
   s.source_files = "ios/**/*.{h,m}"
   s.exclude_files = "ios/Vendor/**/*.{h,m}"
 
